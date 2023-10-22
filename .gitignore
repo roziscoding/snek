@@ -1,0 +1,11 @@
+## Obtained by running ./configure
+.deps
+Makefile
+stamp-h1
+config.h
+*.log
+config.status
+autom4te.cache
+*.tar.gz
+src/snek
+src/snek.o
